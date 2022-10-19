@@ -1,4 +1,4 @@
-[![MasterHead ] <span width="240"> (./cartoon-629_256.gif)]() </span>
+[![MasterHead ] (./cartoon-629_256.gif)]() 
 
 <h1 align="center">Hi 👋, I'm Waheed Chitapure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
