@@ -1,4 +1,4 @@
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ta7b2q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[![MasterHead]([https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)](https://streamable.com/ta7b2q)]()
 
 <h1 align="center">Hi 👋, I'm Waheed Chitapure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
