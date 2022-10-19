@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working as **UI Developer**
 
-- 👯 I’m looking to collaborate on **Front-end Developer**
+- 👯 I’m looking to collaborate on **Front-end Developer Projects**
 
 - 💬 Ask me about **HTML,CSS,Javascript,Reactjs,Node.js**
 
-- ⚡ Fun fact **I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
