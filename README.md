@@ -1,4 +1,5 @@
-[![MasterHead]([https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)](https://streamable.com/ta7b2q)]()
+[![MasterHead](https://streamable.com/ta7b2q)]()
+
 
 <h1 align="center">Hi 👋, I'm Waheed Chitapure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
