@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waheedchitapure&show_icons=true&locale=en&layout=compact" alt="waheedchitapure" />
 
-    <img style="border-radius: 6px;" align="right" alt="Coding" width="300" src="./coding.gif"/>
+    <img  align="right" alt="Coding" width="300" src="./coding.gif"/>
 
 </p>
 
